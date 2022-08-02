@@ -14,9 +14,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 </head>
-   <body>
-      <img src="https://www.tutorialspoint.com/html/images/test.png" alt="Simply Easy Learning" width="200" height="80">
-   </body>
 <body>
 
 <!-- Navbar (sit on top) -->
@@ -34,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
-  <img class="w3-image" src="/w3images/hamburger.jpg" alt="Hamburger Catering" width="1600" height="800">
+ <img src="https://www.tutorialspoint.com/html/images/test.png" alt="Simply Easy Learning" width="200" height="80">
   <div class="w3-display-bottomleft w3-padding-large w3-opacity">
     <h1 class="w3-xxlarge">Le Catering</h1>
   </div>
