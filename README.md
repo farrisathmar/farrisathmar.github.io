@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>W3.CSS Template</title>
+<title>Farris</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -14,6 +14,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 </head>
+   <body>
+      <img src="https://www.tutorialspoint.com/html/images/test.png" alt="Simply Easy Learning" width="200" height="80">
+   </body>
 <body>
 
 <!-- Navbar (sit on top) -->
